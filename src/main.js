@@ -1452,7 +1452,7 @@
     }
 
     /**
-     * 配置引擎参数，设置的参数将被合并到现有参数中
+     * 配置引擎参数 ，设置的参数将被合并到现有参数中
      *
      * @param {Object} options 参数对象
      * @param {string=} options.commandOpen 命令语法起始串
